@@ -1,0 +1,1481 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Anjani - Template Kit for spa and beauty",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Anjani V1 - Single Post",
+            "screenshot": "screenshots\/anjani-v1-single-post.jpg",
+            "source": "templates\/anjani-v1-single-post.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/?elementor_library=anjani-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Anjani V1 - Error 404",
+            "screenshot": "screenshots\/anjani-v1-error-404.jpg",
+            "source": "templates\/anjani-v1-error-404.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/?elementor_library=anjani-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Anjani V1 - Archive",
+            "screenshot": "screenshots\/anjani-v1-archive.jpg",
+            "source": "templates\/anjani-v1-archive.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/?elementor_library=anjani-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Anjani V1 - Footer",
+            "screenshot": "screenshots\/anjani-v1-footer.jpg",
+            "source": "templates\/anjani-v1-footer.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/?elementor_library=anjani-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Anjani V1 - Header",
+            "screenshot": "screenshots\/anjani-v1-header.jpg",
+            "source": "templates\/anjani-v1-header.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/anjani\/?elementor_library=anjani-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.2.9",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "OoohBoi Steroids for Elementor",
+            "version": "1.7.2",
+            "file": "ooohboi-steroids-for-elementor\/ooohboi-steroids.php",
+            "author": "OoohBoi"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.6.0",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "spa-treatment.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-treatment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 234782,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YD9JSUW"
+        },
+        {
+            "filename": "portrait-of-masseur-in-spa-salon-e1617559727678.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/portrait-of-masseur-in-spa-salon-e1617559727678-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 231919,
+            "dimensions": [
+                1335,
+                1780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPXCDEA"
+        },
+        {
+            "filename": "portrait-of-masseur-in-spa-salon-1-e1617559750777.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/portrait-of-masseur-in-spa-salon-1-e1617559750777-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 270626,
+            "dimensions": [
+                1335,
+                1780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZA3MRU"
+        },
+        {
+            "filename": "woman-receiving-facial-mask-at-beauty-salon.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/woman-receiving-facial-mask-at-beauty-salon-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 371780,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UX5YRG7"
+        },
+        {
+            "filename": "beautiful-woman-having-a-face-massage-at-health-spa.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-woman-having-a-face-massage-at-health-spa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 259195,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNAMXKK"
+        },
+        {
+            "filename": "spa-salon-1.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-salon-1-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 233060,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z3URVZ4"
+        },
+        {
+            "filename": "asian-masseuse-massaging-face-of-client.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/asian-masseuse-massaging-face-of-client-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 296761,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XL5CCAF"
+        },
+        {
+            "filename": "peaceful-blonde-lying-on-bamboo-mat-with-flowers-at-the-health-spa.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/peaceful-blonde-lying-on-bamboo-mat-with-flowers-at-the-health-spa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 241164,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPDAHAM"
+        },
+        {
+            "filename": "beautiful-relaxed-woman-having-green-clay-face-mask-in-spa-salon.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-relaxed-woman-having-green-clay-face-mask-in-spa-salon-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 263356,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TNJHWZA"
+        },
+        {
+            "filename": "natural-spa-cosmetic-products.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/natural-spa-cosmetic-products-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 353656,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-86875FN"
+        },
+        {
+            "filename": "spa-woman.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-woman-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 185393,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PT3XMDZ"
+        },
+        {
+            "filename": "1-e1617898984699.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/1-e1617898984699.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 89399,
+            "dimensions": [
+                245,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/watercolor-hydrangea-flowers-clipart-YSEKC9"
+        },
+        {
+            "filename": "bg_header_1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/bg_header_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 645508,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/curly-brunette-woman-with-flower-in-hair-young-gir-T2U8J3R"
+        },
+        {
+            "filename": "8-e1617898970253.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/8-e1617898970253.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 48397,
+            "dimensions": [
+                164,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/watercolor-hydrangea-flowers-clipart-YSEKC9"
+        },
+        {
+            "filename": "rectangle-2.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/rectangle-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 825,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-african-woman-in-resort-spa.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/happy-african-woman-in-resort-spa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 400555,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9Z82UDW"
+        },
+        {
+            "filename": "pattern_1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/pattern_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/anjani-v1-archive.json",
+                    "name": "Anjani V1 - Archive"
+                }
+            ],
+            "filesize": 1638,
+            "dimensions": [
+                400,
+                155
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Rock-1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/Rock-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 8098,
+            "dimensions": [
+                257,
+                261
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-icon-pack-8E62SVE"
+        },
+        {
+            "filename": "Candles.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/Candles.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6346,
+            "dimensions": [
+                257,
+                277
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-icon-pack-8E62SVE"
+        },
+        {
+            "filename": "Herbal-Massage.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/Herbal-Massage.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5661,
+            "dimensions": [
+                257,
+                323
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-icon-pack-8E62SVE"
+        },
+        {
+            "filename": "Medicine.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/Medicine.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6103,
+            "dimensions": [
+                257,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-icon-pack-8E62SVE"
+        },
+        {
+            "filename": "Tea-Herbal.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/Tea-Herbal.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5694,
+            "dimensions": [
+                257,
+                286
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-icon-pack-8E62SVE"
+        },
+        {
+            "filename": "Mortar.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/Mortar.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4868,
+            "dimensions": [
+                257,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-icon-pack-8E62SVE"
+        },
+        {
+            "filename": "beautiful-relaxed-woman-having-clay-mask-applying-to-the-back-in-spa-salon.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-relaxed-woman-having-clay-mask-applying-to-the-back-in-spa-salon-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 309940,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RG24HZP"
+        },
+        {
+            "filename": "diverse-masseuse-and-client.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/diverse-masseuse-and-client-800x521.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 310434,
+            "dimensions": [
+                2000,
+                1302
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T5JCZKU"
+        },
+        {
+            "filename": "beautiful-young-woman-in-spa-salon-massage-relax-and-healthy-.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-young-woman-in-spa-salon-massage-relax-and-healthy--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 186001,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5X87T5K"
+        },
+        {
+            "filename": "beautiful-white-girl-with-red-lips-looks-to-the-camera-stunning-blonda-girl--e1617639440398.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-white-girl-with-red-lips-looks-to-the-camera-stunning-blonda-girl--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 85552,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9YWMWBT"
+        },
+        {
+            "filename": "beautiful-fashion-girl-with-cupcake-e1617639467595.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-fashion-girl-with-cupcake-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 71211,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6YU9ZH"
+        },
+        {
+            "filename": "pretty-girl-in-sunglasses-with-beautiful-skin-and-lips-posing-in-studio-e1617639490759.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/pretty-girl-in-sunglasses-with-beautiful-skin-and-lips-posing-in-studio-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 97330,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7C9K3DG"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "beautiful-young-woman-relaxing-with-hand-massage-at-beauty-spa.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-young-woman-relaxing-with-hand-massage-at-beauty-spa-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 202319,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8DN9GN4"
+        },
+        {
+            "filename": "accessories-for-spa-procedures-natural-ingredients-for-beauty-e1617639517436.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/accessories-for-spa-procedures-natural-ingredients-for-beauty-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 84110,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-R8A44UJ"
+        },
+        {
+            "filename": "beautiful-young-woman-relaxing-in-the-spa-salon--e1617639543812.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-young-woman-relaxing-in-the-spa-salon--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 68031,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XDRZ56C"
+        },
+        {
+            "filename": "massage-oil-and-sea-salt-e1617639567269.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/massage-oil-and-sea-salt-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 88444,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMPP77S"
+        },
+        {
+            "filename": "aromatherapy-lamp-with-grapefruit-essential-oil-copy-space-square.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/aromatherapy-lamp-with-grapefruit-essential-oil-copy-space-square-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 382347,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJGLJEV"
+        },
+        {
+            "filename": "peeling-scrub-treatment-at-resort.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/peeling-scrub-treatment-at-resort-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 220881,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QXMYTJ8"
+        },
+        {
+            "filename": "massage-therapist-working-in-spa-salon-e1617559783365.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/massage-therapist-working-in-spa-salon-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 46304,
+            "dimensions": [
+                640,
+                855
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QSEYRCX"
+        },
+        {
+            "filename": "woman-enjoying-day-in-spa-salon-e1617559816354.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/woman-enjoying-day-in-spa-salon-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 63287,
+            "dimensions": [
+                690,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7WAVZY9"
+        },
+        {
+            "filename": "beautician-standing-behind-massage-table-and-smiling-at-beauty-salon-e1617559938862.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautician-standing-behind-massage-table-and-smiling-at-beauty-salon-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 36056,
+            "dimensions": [
+                630,
+                840
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TWRLC9H"
+        },
+        {
+            "filename": "portrait-of-smiling-cosmetologist-in-white-coat-in-salon-e1617559840691.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/portrait-of-smiling-cosmetologist-in-white-coat-in-salon-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 52330,
+            "dimensions": [
+                785,
+                1050
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ASJGHNE"
+        },
+        {
+            "filename": "monstera-palm-green-leaves-on-black-background-e1617639591520.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/monstera-palm-green-leaves-on-black-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 135707,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TLZXQLG"
+        },
+        {
+            "filename": "young-woman-resting-after-taking-bath.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/young-woman-resting-after-taking-bath-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 205353,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FTW6BWD"
+        },
+        {
+            "filename": "pattern_2.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/pattern_2.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 1713,
+            "dimensions": [
+                156,
+                401
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "spa-setting-with-aroma-oil-vintage-style.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-setting-with-aroma-oil-vintage-style-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 386661,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8RDHM6"
+        },
+        {
+            "filename": "white-marble-natural-texture-background.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/white-marble-natural-texture-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/anjani-v1-error-404.json",
+                    "name": "Anjani V1 - Error 404"
+                }
+            ],
+            "filesize": 201187,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-H2WJ5AS"
+        },
+        {
+            "filename": "spa-stones-.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-stones--800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/anjani-v1-archive.json",
+                    "name": "Anjani V1 - Archive"
+                }
+            ],
+            "filesize": 186770,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-63PU3NM"
+        },
+        {
+            "filename": "leaf-icon.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/leaf-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/anjani-v1-footer.json",
+                    "name": "Anjani V1 - Footer"
+                }
+            ],
+            "filesize": 107780,
+            "dimensions": [
+                293,
+                202
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo_anjani_f.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/Logo_anjani_f.png",
+            "templates": [
+                {
+                    "source": "templates\/anjani-v1-footer.json",
+                    "name": "Anjani V1 - Footer"
+                }
+            ],
+            "filesize": 6870,
+            "dimensions": [
+                266,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo_anjani.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/Logo_anjani.png",
+            "templates": [
+                {
+                    "source": "templates\/anjani-v1-header.json",
+                    "name": "Anjani V1 - Header"
+                }
+            ],
+            "filesize": 7287,
+            "dimensions": [
+                266,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

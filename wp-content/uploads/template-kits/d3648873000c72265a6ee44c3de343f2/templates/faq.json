@@ -1,0 +1,748 @@
+{
+    "version": "0.4",
+    "title": "FAQ",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "5eaac580",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "background_background": "classic",
+                "background_color": "#ECF0F2",
+                "margin": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "reverse_order_mobile": "reverse-mobile"
+            },
+            "elements": [
+                {
+                    "id": "7e4033bc",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 65,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "374316a0",
+                            "settings": {
+                                "title": "Add Your Heading Text Here",
+                                "header_size": "h1",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"d75f4bb\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "22252df3",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "icon icon-home",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "cb71f39"
+                                    },
+                                    {
+                                        "text": "List Item #2",
+                                        "selected_icon": {
+                                            "value": "icon icon-chevron-right",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "006e7a7",
+                                        "__dynamic__": {
+                                            "text": "[elementor-tag id=\"54a5201\" name=\"post-title\" settings=\"%7B%7D\"]"
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1c5223cc",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 35,
+                        "padding": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5a6c940",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/young-woman-resting-after-taking-bath.jpg",
+                                    "id": 258
+                                },
+                                "image_box_shadow_box_shadow": {
+                                    "horizontal": 10,
+                                    "vertical": -10,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "#FFFFFF"
+                                },
+                                "_margin": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-25",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "_background_background": "classic",
+                                "_background_color_b": "#148A87",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "image_size": "full",
+                                "object-fit": "cover",
+                                "_margin_mobile": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-15",
+                                    "left": "5",
+                                    "isLinked": false
+                                },
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "vh",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "22bd3bd",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/pattern_1.png",
+                                    "id": 104
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "",
+                                    "height": "50"
+                                },
+                                "align": "left",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 59,
+                                    "unit": "px"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": -30,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 1,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 109,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 117,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 483,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2092ddd4",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "59f3af53",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 60,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1c7161e9",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5b216636",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 40,
+                        "hide_mobile": "hidden-phone"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5e032c97",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "32e9d6d7",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1a091694",
+                            "settings": {
+                                "title": "Global Question",
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "235894c4",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "635b550a",
+                            "settings": {
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "What is a Spa?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "a648e20"
+                                    },
+                                    {
+                                        "acc_title": " How do I decide which spa is best for me?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "bc6b0ca"
+                                    },
+                                    {
+                                        "acc_title": "What is a Thalassotherapy Spa?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "8de75b0"
+                                    },
+                                    {
+                                        "acc_title": " What is a Thermal Spa?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "3cf6121"
+                                    },
+                                    {
+                                        "acc_title": "What is a Medical Spa?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "1b07075"
+                                    },
+                                    {
+                                        "acc_title": "Can I choose the times that I have my spa treatments?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "d6ca01e"
+                                    }
+                                ],
+                                "ekit_accordion_open_first_slide": "",
+                                "ekit_accordion_display_loop_count": "",
+                                "ekit_accordion_title_color": "#FFFFFF",
+                                "ekit_accordion_background_background": "classic",
+                                "ekit_accordion_background_color": "#148A87",
+                                "ekit_accordion_title_color_close": "#051145",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_padding": {
+                                    "unit": "em",
+                                    "top": "3",
+                                    "right": "3",
+                                    "bottom": "3",
+                                    "left": "3",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_section_icon_margin": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "ekit_accordion_title_typography_typography": "globals\/typography?id=874b3a5"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "bb1918d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7b00f649",
+                            "settings": {
+                                "title": "Service Question",
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5d9c7a5",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4fa7d668",
+                            "settings": {
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "What is a Spa?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "a648e20"
+                                    },
+                                    {
+                                        "acc_title": " How do I decide which spa is best for me?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "bc6b0ca"
+                                    },
+                                    {
+                                        "acc_title": "What is a Thalassotherapy Spa?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "8de75b0"
+                                    },
+                                    {
+                                        "acc_title": " What is a Thermal Spa?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "3cf6121"
+                                    },
+                                    {
+                                        "acc_title": "What is a Medical Spa?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "1b07075"
+                                    },
+                                    {
+                                        "acc_title": "Can I choose the times that I have my spa treatments?",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "d6ca01e"
+                                    }
+                                ],
+                                "ekit_accordion_open_first_slide": "",
+                                "ekit_accordion_display_loop_count": "",
+                                "ekit_accordion_title_color": "#FFFFFF",
+                                "ekit_accordion_background_background": "classic",
+                                "ekit_accordion_background_color": "#148A87",
+                                "ekit_accordion_title_color_close": "#051145",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_padding": {
+                                    "unit": "em",
+                                    "top": "3",
+                                    "right": "3",
+                                    "bottom": "3",
+                                    "left": "3",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_section_icon_margin": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "ekit_accordion_title_typography_typography": "globals\/typography?id=874b3a5"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4c403c43",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "631adfe4",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "c1c0307",
+                            "settings": {
+                                "title": "Didn't Find The Answer?",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "510f964d",
+                            "settings": {
+                                "title": "Please, contact our Customer Service.",
+                                "header_size": "h4",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "e0844a3",
+                            "settings": {
+                                "text": "Contact Us",
+                                "align": "center",
+                                "size": "md"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

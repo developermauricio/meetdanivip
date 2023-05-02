@@ -1,0 +1,885 @@
+{
+    "version": "0.4",
+    "title": "Single Service",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "5b1ea548",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-treatment.jpg",
+                    "id": 566
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "250e0d96",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 60,
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "margin_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "64f5b224",
+                            "settings": {
+                                "title": "Face Treatments"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "26c67f9a",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "18024f73",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 40
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "38d1d273",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "727c099e",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 60,
+                        "_inline_size_tablet": 100,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "fe215b9",
+                            "settings": {
+                                "title": "Description",
+                                "header_size": "h3",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "20c3fc9",
+                            "settings": {
+                                "editor": "<p>Convallis purus ad sit elit hendrerit tempus sociosqu. Condimentum donec integer efficitur. Faucibus venenatis dui imperdiet enim conubia hendrerit donec. Quam venenatis phasellus nisi pede.<\/p><p>Vitae non placerat donec convallis dui. Mauris feugiat consequat pretium pede duis molestie. Commodo senectus urna molestie per velit torquent donec. Natoque parturient elementum dapibus. Venenatis congue a pretium himenaeos lorem. Efficitur urna praesent ac eros. Praesent elit tellus montes potenti. Mattis fusce dignissim mauris egestas id ornare.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7d32de08",
+                            "settings": {
+                                "title": "What we do",
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6585411",
+                            "settings": {
+                                "editor": "<p>Convallis purus ad sit elit hendrerit tempus sociosqu. Condimentum donec integer efficitur. Faucibus venenatis dui imperdiet enim conubia hendrerit donec. Quam venenatis phasellus nisi pede.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1c96c5a4",
+                            "settings": {
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "Step #1 - Facial cleanse",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "1e1194f"
+                                    },
+                                    {
+                                        "acc_title": "Step #2 - Skin consultation",
+                                        "_id": "bb41b1b"
+                                    },
+                                    {
+                                        "acc_title": "Step #3 - Facial exfoliation",
+                                        "_id": "2d1dcfa"
+                                    },
+                                    {
+                                        "acc_title": "Step #4 - Facial steam",
+                                        "_id": "c4aa1ea"
+                                    },
+                                    {
+                                        "acc_title": "Step #5 - Extraction",
+                                        "_id": "56a2af7"
+                                    },
+                                    {
+                                        "acc_title": "Step #6 - Massage",
+                                        "_id": "c122fea"
+                                    },
+                                    {
+                                        "acc_title": "Step #7 - Mask application",
+                                        "_id": "15e7030"
+                                    },
+                                    {
+                                        "acc_title": "Step #8 - Serum application",
+                                        "_id": "034759a"
+                                    }
+                                ],
+                                "ekit_accordion_title_typography_typography": "custom",
+                                "ekit_accordion_title_typography_font_family": "Poppins",
+                                "ekit_accordion_title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_title_color": "#FFFFFF",
+                                "ekit_accordion_background_background": "classic",
+                                "ekit_accordion_background_color": "#148A87",
+                                "ekit_accordion_title_color_close": "#051145",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_padding": {
+                                    "unit": "em",
+                                    "top": "3",
+                                    "right": "3",
+                                    "bottom": "3",
+                                    "left": "3",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_section_icon_margin": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "ekit_accordion_title_typography_typography": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "239698e",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 40,
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 100,
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#ECF0F2"
+                    },
+                    "elements": [
+                        {
+                            "id": "58c460e5",
+                            "settings": {
+                                "title": "About Service",
+                                "header_size": "h3",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "203d07d6",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "274c9844",
+                            "settings": {
+                                "title": "Therapist",
+                                "header_size": "h4"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4e30054c",
+                            "settings": {
+                                "_ob_bbad_inner_width": "100%",
+                                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                                "_ob_glider_nav_pos_x_next_alt": "0%",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "em",
+                                    "top": "1",
+                                    "right": 0,
+                                    "bottom": "1",
+                                    "left": 0,
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7559ca18",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1b75092e",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/portrait-of-masseur-in-spa-salon-e1617559727678.jpg",
+                                                    "id": 397
+                                                },
+                                                "title_text": "Leonardo Gucci",
+                                                "description_text": "Therapist",
+                                                "title_size": "h5",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "_ob_imbox_padding_cont": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "_ob_imbox_padding_cont_mobile": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_background_background": "classic",
+                                                "_background_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "6d27f157",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2806995",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/portrait-of-masseur-in-spa-salon-1-e1617559750777.jpg",
+                                                    "id": 398
+                                                },
+                                                "title_text": "Melisa Gucci",
+                                                "description_text": "Therapist",
+                                                "title_size": "h5",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "_ob_imbox_padding_cont": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "_ob_imbox_padding_cont_mobile": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "_background_background": "classic",
+                                                "_background_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "436195ec",
+                            "settings": {
+                                "title": "Treatment",
+                                "header_size": "h4"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "27f57288",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Anti-ageing eye treatments",
+                                        "selected_icon": {
+                                            "value": "icon icon-eye1",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "3e74875"
+                                    },
+                                    {
+                                        "text": "Balancing facials",
+                                        "selected_icon": {
+                                            "value": "icon icon-mirror",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "1341697"
+                                    },
+                                    {
+                                        "text": "Facial cleanse",
+                                        "selected_icon": {
+                                            "value": "icon icon-shampoo",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "dceb9f7"
+                                    },
+                                    {
+                                        "text": "Facial exfoliation",
+                                        "selected_icon": {
+                                            "value": "icon icon-flower",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "ed8d607"
+                                    },
+                                    {
+                                        "text": "Extraction",
+                                        "selected_icon": {
+                                            "value": "icon icon-basket1",
+                                            "library": "ekiticons"
+                                        },
+                                        "_id": "6146d2c"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "divider": "yes",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 38,
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=874b3a5"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "518f705f",
+                            "settings": {
+                                "text": "Download Brochure",
+                                "align": "center",
+                                "size": "md",
+                                "selected_icon": {
+                                    "value": "fas fa-file-pdf",
+                                    "library": "fa-solid"
+                                },
+                                "icon_align": "right",
+                                "icon_indent": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5dbca5fe",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "489c6b11",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "644b4c83",
+                            "settings": {
+                                "title": "Gallery",
+                                "header_size": "h6",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3177e29a",
+                            "settings": {
+                                "title": "Photograph Gallery",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "47fb859e",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 741,
+                                        "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/woman-receiving-facial-mask-at-beauty-salon.jpg"
+                                    },
+                                    {
+                                        "id": 566,
+                                        "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-treatment.jpg"
+                                    },
+                                    {
+                                        "id": 564,
+                                        "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-woman-having-a-face-massage-at-health-spa.jpg"
+                                    },
+                                    {
+                                        "id": 630,
+                                        "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-salon-1.jpg"
+                                    },
+                                    {
+                                        "id": 382,
+                                        "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/asian-masseuse-massaging-face-of-client.jpg"
+                                    },
+                                    {
+                                        "id": 227,
+                                        "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/peaceful-blonde-lying-on-bamboo-mat-with-flowers-at-the-health-spa.jpg"
+                                    },
+                                    {
+                                        "id": 189,
+                                        "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/beautiful-relaxed-woman-having-green-clay-face-mask-in-spa-salon.jpg"
+                                    },
+                                    {
+                                        "id": 499,
+                                        "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/natural-spa-cosmetic-products.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "1287895"
+                                    }
+                                ],
+                                "columns_mobile": 2,
+                                "aspect_ratio": "1:1",
+                                "thumbnail_image_size": "full",
+                                "show_all_galleries_label": "All"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "60e8885",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "structure": "20",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "background_color_b": "#F2295B00",
+                "background_image": {
+                    "url": "https:\/\/demo.moxcreative.com\/anjani\/wp-content\/uploads\/sites\/20\/2021\/04\/spa-woman.jpg",
+                    "id": 721
+                },
+                "background_position": "center center",
+                "background_position_mobile": "top left",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_size_mobile": "cover",
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "#ECF0F2",
+                "background_overlay_color_b": "#F2295B00",
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 90,
+                    "sizes": []
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "10",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "2",
+                    "bottom": "3",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6cd182aa",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2ab2d24a",
+                            "settings": {
+                                "title": "Promo",
+                                "header_size": "h3",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "11389b7",
+                            "settings": {
+                                "title": "Discount up to 35% for first member!",
+                                "header_size": "h1",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "abb53b6",
+                            "settings": {
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5e16957f",
+                            "settings": {
+                                "text": "Claim Promo",
+                                "align_mobile": "center",
+                                "size": "md"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6c83c37d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}
